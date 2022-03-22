@@ -2,6 +2,18 @@
   - firstname: ["Isil"]
     url: https://www.cs.utexas.edu/~isil/
 
+"Sepanski":
+  - firstname: ["Benjamin"]
+    url: https://bensepanski.github.io/
+
+"Bornholt":
+  - firstname: ["James"]
+    url: https://www.cs.utexas.edu/~bornholt/
+
+"Krishnan":
+  - firstname: ["Rahul"]
+    url: https://www.cs.utexas.edu/~rahulk/
+
 "Stephens":
   - firstname: ["Jon"]
     url: https://stephensj2.github.io/
