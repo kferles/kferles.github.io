@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.cs.utexas.edu/">Computer Science Department @ The University of Texas at Austin</a>
+description: <a href="https://veridise.com/">Veridise</a> → <a href="https://www.cse.msu.edu/">Michigan State University</a>
 
 profile:
   align: right
