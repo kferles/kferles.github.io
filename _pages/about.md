@@ -19,16 +19,27 @@ social: true  # includes social icons at the bottom of the page
 
 ### About Me
 
-I am Postdoctoral Fellow at the Computer Science Department in the
-University of Texas, Austin (UT Austin). I am working under the
-supervision of [Işıl Dillig](https://www.cs.utexas.edu/~isil/) and I
-am a member of the [UToPiA](https://utopia.cs.utexas.edu/) group. I
-received my Ph.D. from UT Austin in December of 2020 while also
-working under the supervision of [Işıl
-Dillig](https://www.cs.utexas.edu/~isil/). Prior to UT Austin, I
-received my B.Sc. and M.Sc. degrees (both in C.S.) from the University
-of Athens, Greece. During my master's, I was working as a research
-assistant under the supervision of [Yannis
+I am a Principal Scientist at [Veridise, Inc](https://veridise.com/),
+where our goal is to harden blockchain security with formal methods. I
+am also excited to announce that in Fall of 2023 I will be joining the
+[Computer Science and Engineering
+Department](https://www.cse.msu.edu/) at Michigan State University as
+an Assistant Professor.
+
+**If you are interested in working with me, consider applying to our
+[Ph.D. program](https://www.cse.msu.edu/Students/Future_Grad/HowToApply.php)
+and feel free to [contact me](mailto:kferles@cs.utexas.edu) in
+advance.**
+
+I received my Ph.D. from the University of Texas, Austin (UT Austin)
+in December 2020. After graduating, I extended my stay at UT Austin
+for a brief postdoc position (until May of 2021). All my years at UT,
+I was working under the supervision of [Işıl
+Dillig](https://www.cs.utexas.edu/~isil/) and was a member of the
+[UToPiA](https://utopia.cs.utexas.edu/) group. Prior to UT Austin, I
+received my B.Sc. and M.Sc. degrees (both in C.S.)  from the
+University of Athens, Greece. During my master's, I was working as a
+research assistant under the supervision of [Yannis
 Smaragdakis](http://yanniss.github.io/).
 
  <br/>

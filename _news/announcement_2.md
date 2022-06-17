@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2021-10-23 5:59:00-0400
+date: 2022-06-15 5:59:00-0400
 inline: true
 ---
 
-I will be serving on the PLDI'22 Program Committee.
+I'll be joining Michigan State CSE as an Assistant Professor in Fall'23.
 
 <!--
 ---
