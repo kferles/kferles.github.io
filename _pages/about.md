@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://veridise.com/">Veridise</a> → <a href="https://www.cse.msu.edu/">Michigan State University</a>
+description: <a href="https://veridise.com/">Veridise</a>
 
 profile:
   align: right
@@ -20,16 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ### About Me
 
 I am a Principal Scientist at [Veridise, Inc](https://veridise.com/),
-where our goal is to harden blockchain security with formal methods. I
-am also excited to announce that in Fall of 2023 I will be joining the
-[Computer Science and Engineering
-Department](https://www.cse.msu.edu/) at Michigan State University as
-an Assistant Professor.
-
-**If you are interested in working with me, consider applying to our
-[Ph.D. program](https://www.cse.msu.edu/Students/Future_Grad/HowToApply.php)
-and feel free to [contact me](mailto:kferles@cs.utexas.edu) in
-advance.**
+where our goal is to harden blockchain security with formal methods.
 
 I received my Ph.D. from the University of Texas, Austin (UT Austin)
 in December 2020. After graduating, I extended my stay at UT Austin
