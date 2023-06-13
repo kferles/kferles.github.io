@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2022-06-15 5:59:00-0400
+date: 2023-06-13 5:59:00-0400
 inline: true
 ---
 
-I'll be joining Michigan State CSE as an Assistant Professor in Fall'23.
+Happy to announce that I was promoted Chief Research Officer at Veridise.
 
 <!--
 ---
