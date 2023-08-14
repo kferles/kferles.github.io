@@ -7,10 +7,7 @@ description: <a href="https://veridise.com/">Veridise</a>
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Gates Dell Complex 5.402</p>
-    <p>2317 Speedway</p>
-    <p>Austin, TX 78712</p>
+  address:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,8 +16,9 @@ social: true  # includes social icons at the bottom of the page
 
 ### About Me
 
-I am a Principal Scientist at [Veridise, Inc](https://veridise.com/),
-where our goal is to harden blockchain security with formal methods.
+I am the Chief Research Officer at [Veridise,
+Inc](https://veridise.com/), where our goal is to harden blockchain
+security with formal methods.
 
 I received my Ph.D. from the University of Texas, Austin (UT Austin)
 in December 2020. After graduating, I extended my stay at UT Austin
